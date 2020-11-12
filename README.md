@@ -4,7 +4,7 @@ Scan the QR Code for all my contact info!
 
 <img src="https://user-images.githubusercontent.com/68249244/96934835-8d14f200-1488-11eb-8ba2-3f7dcc9a3c2c.png" width="150">
 
-🔭  I’m currently working on a clustering project that will find key features and accurately predict log error in our Zillow dataset.
+🔭  I’m currently working on an Anomaly Detection project to attempt to discover any out of the norm access to the Codeup curriculum.
 
 💬  Ask me about a side project I am starting that will predict the top NFL draft prospects based on the NFL Combine results.
 
